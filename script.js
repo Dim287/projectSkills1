@@ -53,6 +53,8 @@
         genres.splice(genres.indexOf("Drama"),1)
         genres.splice(genres.indexOf("Comedy"),1)
 
+        console.log("Edit");
+
 
         genres.forEach(element => {
 
