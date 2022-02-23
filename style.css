@@ -1,0 +1,107 @@
+.myList{
+
+    height:300px;
+    background-color:lightblue;
+    width:200px;
+
+    float:left;
+    border:thin black solid;
+    position:fixed;
+    left:1000px;
+}
+
+.filterBar{
+    height:50px;
+    width:1200px;
+
+
+}
+
+.movies{
+
+    width:800px;
+    float:left;
+    position:relative;
+    left:204px;
+}
+
+.container{
+
+    height:600px;
+    width:1200px;
+    background-color:lightblue;
+}
+
+.grids{
+
+    height:300px;
+    width:194px;
+    background-color:lightblue;
+    float:left;
+
+    border:thin black solid;
+}
+
+.info{
+
+    height:50px;
+    width:180px;
+
+    float:left;
+
+}
+
+.year{
+
+    height:50px;
+    width:180px;
+
+    float:left;
+
+}
+
+.gridImg{
+
+    height:200px;
+    width:100%;
+
+}
+
+.title{
+
+    color:maroon;
+
+    font-family: "Bebas Neue";
+
+    font-size: 160px;
+
+    margin-left:auto;
+    margin-right:auto;
+    width:400px;
+}
+.menu{
+    width:1200px;
+    height: 50px;
+    text-align: center;
+    position: sticky;
+}
+.menuItem{
+    width:120px;
+    float: left;
+}
+.filterDiv{
+    width: 120px;
+    float: left;
+}
+#more{
+
+    height:50px;
+    position: relative;
+    z-index: 1;
+    background-color: lightblue;
+}
+.moreItem{
+    background-color: lightblue;
+    display: none;
+
+}
